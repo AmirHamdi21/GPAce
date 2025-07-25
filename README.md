@@ -43,5 +43,5 @@ GPAce is a sleek and intuitive GPA calculator app built with Flutter. It’s des
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/yourusername/gpace.git
+   git clone https://github.com/AmirHamdi21/GPAce.git
 
