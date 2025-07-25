@@ -31,7 +31,7 @@ GPAce is a sleek and intuitive GPA calculator app built with Flutter. It’s des
 
 - **Flutter** – Cross-platform UI toolkit  
 - **Dart** – Modern programming language  
-- **Firebase (optional)** – For future enhancements like backup or authentication  
+- **SQL** – For storing semesters data
 
 ---
 
