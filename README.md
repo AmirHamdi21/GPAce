@@ -21,9 +21,12 @@ GPAce is a sleek and intuitive GPA calculator app built with Flutter. It’s des
 
 ## 📷 Screenshots
 
-![Home Screen](screenshots/home.jpg)
-![GPA Input Screen](screenshots/input.jpg)
-![GPA History Screen](screenshots/history.jpg)
+<p align="center">
+  <img src="screenshots/home.png" width="30%" alt="Home Screen" />
+  <img src="screenshots/semester.png" width="30%" alt="Semester Screen" />
+  <img src="screenshots/result.png" width="30%" alt="Result Screen" />
+</p>
+
 
 ---
 
