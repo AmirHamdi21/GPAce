@@ -1,16 +1,43 @@
-# gpa_calculator
+# 🎓 GPAce – Smart GPA Calculator App
 
-A new Flutter project.
+![Flutter](https://img.shields.io/badge/Flutter-Framework-blue?logo=flutter)
+![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-## Getting Started
+GPAce is a sleek and intuitive GPA calculator app built with Flutter. It’s designed to help students effortlessly calculate and track their academic performance—both per semester and cumulatively. Whether you’re in high school or university, GPAce makes academic tracking simple, fast, and beautiful.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📚 **Semester & Cumulative GPA Calculation** – Calculate GPA for one or multiple semesters
+- 🧮 **Custom Credit & Grade Input** – Fully editable course credit hours and grade entries
+- 🔁 **Weighted & Unweighted GPA Support** – Supports various GPA scales
+- 📊 **Clean, Minimal UI** – Built with a focus on clarity and usability
+- 💾 **Offline Data Storage** – No need for an internet connection
+- 📱 **Cross-Platform** – Available for both Android and iOS
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📷 Screenshots
+
+![Home Screen](screenshots/home.jpg)
+![GPA Input Screen](screenshots/input.jpg)
+![GPA History Screen](screenshots/history.jpg)
+
+---
+
+## 🛠️ Tech Stack
+
+- **Flutter** – Cross-platform UI toolkit  
+- **Dart** – Modern programming language  
+- **SQL** – For storing semesters data
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/yourusername/gpace.git
+
